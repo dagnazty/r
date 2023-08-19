@@ -1,4 +1,3 @@
-﻿$webhook = "Discord_Webhook"
 $filePath = "$env:USERPROFILE\Documents\Testy.txt"
 
 # Read and truncate the file content if necessary
